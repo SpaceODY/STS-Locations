@@ -1,10 +1,7 @@
-# Edwards-Airforce-Base
-BETA
+# STS Locations
+(Previously known as Edwards AFB)
 
-Newest version includes:
-- Fixed Spawner
-- Rescaled base
-- Texture packed inside
-
-Plans:
-- Add smaller buildings
+Mod includes:
+- Edwards Air Force base in greater detail
+- Vandenberg in greater detail
+- Launch complex 6 in Vandenberg and runways at Edwards
